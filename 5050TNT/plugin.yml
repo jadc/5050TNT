@@ -1,0 +1,5 @@
+main: red.jad.tnt5050.TNT5050
+name: 5050TNT
+version: '1.0'
+description: 50% chance of spawning TNT on every block break
+author: jadc
